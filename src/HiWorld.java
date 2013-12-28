@@ -1,4 +1,3 @@
-
 public class HiWorld {
 	/*
 	 * testing java and Git and github
@@ -8,6 +7,7 @@ public class HiWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hi World...");
 		System.out.println("this line was added after push to github");
+		System.out.println("thisline was added from github web console");
 
 	}
 
