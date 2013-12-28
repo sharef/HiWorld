@@ -1,7 +1,7 @@
 
 public class HiWorld {
 	/*
-	 * testing java and Git
+	 * testing java and Git and github
 	 * 
 	 */
 	public static void main(String[] args) {
